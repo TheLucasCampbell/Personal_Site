@@ -1,0 +1,38 @@
+/* Color/typography theme for whole site*/
+.theme {
+	font-family: "Montserrat", sans-serif;
+}
+
+body {
+	margin-bottom: 20px;
+}
+
+.larger-font {
+	font-size: 3rem;
+}
+
+.lg-font {
+	font-size: 2rem;
+}
+/**/
+
+.col-spacing {
+	margin-top: 16px;
+}
+
+#profile-pic {
+	width: 90%;
+}
+
+#html-pic {
+	width: 100%;
+}
+
+.h1-margin {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+h1 {
+	line-height: 2;
+}
